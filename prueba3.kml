@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
       <Placemark>
         <name>ZONA 1</name>
-        <description>Esta es la ZONA_1</description>
         <styleUrl>#poly-FFD600-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -22,9 +21,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>ZONA 2</name>
-         <description>Esta es la ZONA 2</description>
-         <styleUrl>#poly-3949AB-1200-77-nodesc</styleUrl>
+        <name>Zona2</name>
+        <styleUrl>#poly-3949AB-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -42,8 +40,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>ZONA 3</name>
-         <description>Esta es la ZONA 3</description>
+        <name>ZOna 3</name>
         <styleUrl>#poly-A52714-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -62,8 +59,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>ZONA 4</name>
-         <description>Esta es la ZONA 4</description>
+        <name>Zona 4</name>
         <styleUrl>#poly-7CB342-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -99,8 +95,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>ZONA 5</name>
-         <description>Esta es la ZONA 5</description>
+        <name>Zona5</name>
         <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -118,4 +113,10 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+    </Folder>
+    <Folder>
+      <name>Capa sin título</name>
+    </Folder>
+  </Document>
 </kml>
+
