@@ -99,7 +99,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Zona 5</name>
+        <name>Zona5</name>
         <description>Esta es la ZONA 5</description>
         <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
         <Polygon>
