@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+      <Placemark>
+        <name>ZONA_1</name>
+        <description>Esta es la ZONA_1</description>
+        <styleUrl>#poly-FFD600-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -59.5556678,-33.8701184,0
+                -60.9069862,-34.1978771,0
+                -60.9179725,-35.4603784,0
+                -59.8522987,-36.8002016,0
+                -58.8415565,-35.6212909,0
+                -58.6108436,-34.5062617,0
+                -59.5556678,-33.8701184,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>ZONA 2</name>
+         <description>Esta es la ZONA 2</description>
+         <styleUrl>#poly-3949AB-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -60.9069862,-34.1978771,0
+                -63.5217323,-34.3089807,0
+                -63.5437049,-35.6055268,0
+                -62.3352088,-35.5787251,0
+                -60.9179725,-35.4603784,0
+                -60.9069862,-34.1978771,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>ZONA 3</name>
+         <description>Esta es la ZONA 3</description>
+        <styleUrl>#poly-A52714-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -63.5437049,-35.6055268,0
+                -63.3624304,-37.7183072,0
+                -60.5828895,-37.2387904,0
+                -59.8797645,-36.8617564,0
+                -60.9179725,-35.4603784,0
+                -63.5437049,-35.6055268,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>ZONA 4</name>
+         <description>Esta es la ZONA 4</description>
+        <styleUrl>#poly-7CB342-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -58.6108436,-34.5062617,0
+                -58.9334228,-35.8758737,0
+                -59.8522987,-36.8002016,0
+                -60.5828895,-37.2387904,0
+                -63.3624304,-37.7183072,0
+                -63.45979,-40.601606,0
+                -62.6687743,-40.9676195,0
+                -62.3611572,-40.8347571,0
+                -62.3172118,-40.5682321,0
+                -62.4490478,-40.1328567,0
+                -62.3172118,-39.7960421,0
+                -62.2293212,-39.3896768,0
+                -62.6687743,-38.7071152,0
+                -62.1414306,-38.9809313,0
+                -60.8670165,-39.0150841,0
+                -59.5926025,-38.7071152,0
+                -57.5711181,-38.1217638,0
+                -56.8240478,-36.9368941,0
+                -56.8679931,-36.4081951,0
+                -57.2320594,-36.2661328,0
+                -57.3419227,-35.7685103,0
+                -57.1441688,-35.3574043,0
+                -58.6108436,-34.5062617,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>ZONA 5</name>
+         <description>Esta es la ZONA 5</description>
+        <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -63.5217323,-34.3089807,0
+                -66.6151544,-34.3771381,0
+                -66.3075372,-39.6371354,0
+                -64.6376154,-40.6782724,0
+                -63.45979,-40.601606,0
+                -63.5217323,-34.3089807,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+</kml>
