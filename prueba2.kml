@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
       <Placemark>
-        <name>Zona1</name>
-        <description>ZONA_1</description>
+        <name>ZONA 1</name>
+        <description>Esta es la ZONA_1</description>
         <styleUrl>#poly-FFD600-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -22,8 +22,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Zona2</name>
-         <description>ZONA 2</description>
+        <name>ZONA 2/name>
+         <description>Esta es la ZONA 2</description>
          <styleUrl>#poly-3949AB-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -42,8 +42,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>ZOna 3</name>
-         <description>ZONA 3</description>
+        <name>ZONA 3</name>
+         <description>Esta es la ZONA 3</description>
         <styleUrl>#poly-A52714-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -62,8 +62,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Zona 4</name>
-         <description>ZONA 4</description>
+        <name>ZONA 4</name>
+         <description>Esta es la ZONA 4</description>
         <styleUrl>#poly-7CB342-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -99,8 +99,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Zona5</name>
-         <description>ZONA 5</description>
+        <name>ZONA 5</name>
+         <description>Esta es la ZONA 5</description>
         <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
