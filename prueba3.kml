@@ -22,7 +22,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>ZONA 2/name>
+        <name>ZONA 2</name>
          <description>Esta es la ZONA 2</description>
          <styleUrl>#poly-3949AB-1200-77-nodesc</styleUrl>
         <Polygon>
