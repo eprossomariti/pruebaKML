@@ -197,6 +197,7 @@
       <name>micapa</name>
       <Placemark>
         <name>Zona1</name>
+        <description>ZONA 1</description>
         <styleUrl>#poly-FFD600-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -217,7 +218,8 @@
       </Placemark>
       <Placemark>
         <name>Zona2</name>
-        <styleUrl>#poly-3949AB-1200-77-nodesc</styleUrl>
+         <description>ZONA 2</description>
+         <styleUrl>#poly-3949AB-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -236,6 +238,7 @@
       </Placemark>
       <Placemark>
         <name>ZOna 3</name>
+         <description>ZONA 3</description>
         <styleUrl>#poly-A52714-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -255,6 +258,7 @@
       </Placemark>
       <Placemark>
         <name>Zona 4</name>
+         <description>ZONA 4</description>
         <styleUrl>#poly-7CB342-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -291,6 +295,7 @@
       </Placemark>
       <Placemark>
         <name>Zona5</name>
+         <description>ZONA 5</description>
         <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
