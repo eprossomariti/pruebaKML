@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
       <Placemark>
-        <name>ZONA 1</name>
+        <name>ZONA1</name>
         <styleUrl>#poly-FFD600-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -113,10 +113,5 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name>Capa sin título</name>
-    </Folder>
-  </Document>
 </kml>
 
