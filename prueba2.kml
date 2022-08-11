@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
       <Placemark>
-        <name>ZONA 1</name>
+        <name>ZONA_1</name>
         <description>Esta es la ZONA_1</description>
         <styleUrl>#poly-FFD600-1200-77-nodesc</styleUrl>
         <Polygon>
