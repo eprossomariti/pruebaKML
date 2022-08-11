@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+        <name>Zona 1</name>
+        <description>Esta es la ZONA 1</description>
+        <styleUrl>#poly-FFD600-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -59.5556678,-33.8701184,0
+                -60.9069862,-34.1978771,0
+                -60.9179725,-35.4603784,0
+                -59.8522987,-36.8002016,0
+                -58.8415565,-35.6212909,0
+                -58.6108436,-34.5062617,0
+                -59.5556678,-33.8701184,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+</Placemark></kml>
